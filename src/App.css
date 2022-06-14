@@ -518,6 +518,10 @@ input {
 textarea {
   border-radius: 10px;
 }
+body {
+  background-color: #3876ac;
+  color: black;
+}
 
 @media only screen and (max-width: 390px) {
   .unoo {
